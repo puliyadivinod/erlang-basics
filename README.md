@@ -17,3 +17,15 @@ Goto your Erlang Shell and type below commands, please note make sure your file 
 > ... <br />
 > Pid ! { triangle, 55, 65, 52}. <br />
 > ... <br />
+
+
+2. Beer song module sings a song. (Tutorial source: http://trapexit.org/)
+
+How to run?
+
+Goto your Erlang Shell and type below commands, please note make sure your file exists in the same directory from where you opened the Shell:
+
+> c(beersong). <br />
+> beersong:sing(). <br />
+> ...here your song printed... <br />
+
