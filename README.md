@@ -3,7 +3,7 @@ erlang-basics
 
 Beginning of learning Erlang basics!
 
-1. Area Module calculates area of rectangle and circle.
+A) Area Module calculates area of rectangle and circle.
 
 How to run?
 
@@ -19,7 +19,7 @@ Goto your Erlang Shell and type below commands, please note make sure your file 
 > ... <br />
 
 
-2. Beer song module sings a song. (Tutorial source: http://trapexit.org/)
+B) Beer song module sings a song. (Tutorial source: http://trapexit.org/)
 
 How to run?
 
