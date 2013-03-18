@@ -32,8 +32,8 @@ Goto your Erlang Shell and type below commands, please note make sure your file 
 
 Erlang Learning Sources
 ==============================
-http://learnyousomeerlang.com/introduction
-http://erldocs.com/
-http://schemecookbook.org/Erlang/
-http://trapexit.org/
-http://www.erlang.se/doc/programming_rules.shtml
+http://learnyousomeerlang.com/introduction <br />
+http://erldocs.com/ <br />
+http://schemecookbook.org/Erlang/ <br />
+http://trapexit.org/ <br />
+http://www.erlang.se/doc/programming_rules.shtml <br />
