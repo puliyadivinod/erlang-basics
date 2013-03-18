@@ -29,3 +29,11 @@ Goto your Erlang Shell and type below commands, please note make sure your file 
 > beersong:sing(). <br />
 > ...here your song printed... <br />
 
+
+Erlang Learning Sources
+==============================
+http://learnyousomeerlang.com/introduction
+http://erldocs.com/
+http://schemecookbook.org/Erlang/
+http://trapexit.org/
+http://www.erlang.se/doc/programming_rules.shtml
